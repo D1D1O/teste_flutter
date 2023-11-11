@@ -5,6 +5,7 @@ import 'package:mockito/annotations.dart';
 @GenerateMocks([BankHttp])
 
 class BankHttp {
+  //flutter pub run build_runner build
   Future<String> dolarToReal() async {
     var url = Uri.http('economia.awesomeapi.com.br', '/last/USD-BRL');
     var response = await http.get(url);
@@ -18,3 +19,4 @@ class BankHttp {
     }
   }
 }
+
