@@ -1,3 +1,6 @@
+![image](https://github.com/D1D1O/teste_flutter/assets/31021190/5f544835-fded-4530-bcf0-a920db83b7ef)
+
+
 ![Thumbnail GitHub](https://raw.githubusercontent.com/alura-cursos/alura_flutter_curso_7/master/Card%20Testes.png)
 
 # Flutter: Testes de Unidade, de Widgets e Mocks
